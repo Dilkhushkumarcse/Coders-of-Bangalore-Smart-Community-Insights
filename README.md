@@ -2,7 +2,7 @@
 
 ---
 
-# 🚀 Coders of Bangalore
+# Coders of Bangalore
 
 **A complete data extraction and analytics project to identify the most active, influential, and diverse coders in Bangalore’s tech community.**
 
